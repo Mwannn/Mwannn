@@ -23,9 +23,7 @@
 > *"Web development is where art meets technology — and I live at that intersection."*
 
 <p align="center">
-  <video src="naga.mp4" width="100%" muted autoplay loop playsinline controls>
-    Your browser does not support the video tag.
-  </video>
+  <img src="naga.gif" width="100%" alt="Showcase" />
 </p>
 
 Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia 🇮🇩 with a background in Computer Science. I craft intuitive, performant, and aesthetically pleasing web applications — from pixel-perfect UIs to robust backend systems.
