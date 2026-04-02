@@ -104,13 +104,14 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mwannn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats"/>
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwannn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Mwannn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Mwannn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -120,7 +121,7 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mwannn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Mwannn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -130,7 +131,7 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 
 <div align="center">
 
-[![Marwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mwannn&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mwannn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -140,7 +141,7 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -150,7 +151,7 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 
 ### ðŸ‘€ Profile Views
 
-[![](https://visitcount.itsvg.in/api?id=Mwannn&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Mwannn&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Thanks for stopping by! Let's build something awesome together. ðŸš€**
 
