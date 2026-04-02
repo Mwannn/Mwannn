@@ -7,12 +7,11 @@
 ██║╚██╔╝██║██╔══██║██╔══██╗██║███╗██║██╔══██║██║╚██╗██║
 ██║ ╚═╝ ██║██║  ██║██║  ██║╚███╔███╔╝██║  ██║██║ ╚████║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚════╝
+
 ```
 
 ### `< Full-Stack Developer />` · `{ Art × Technology }`
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+intuitive+%26+engaging+web+experiences;React+%7C+TypeScript+%7C+Laravel+%7C+Next.js;Turning+ideas+into+digital+reality+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -29,20 +28,15 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia �
 - 🌍 Check out my portfolio at **[marwan-wisnu.my.id](https://marwan-wisnu.my.id)**
 - ✉️ Reach me at **marwanwisnu06@gmail.com**
 - ⚡ Fun fact: I believe clean code is poetry
-
 ---
-
 ## 🌐 Let's Connect
-
 <div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://marwan-wisnu.my.id)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mwannn_n)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-wisnu-95a850282)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marwanwisnu06)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mwannn_n)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanwisnu06@gmail.com)
-
 </div>
 
 ---
@@ -101,56 +95,64 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia �
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="center"
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mwannn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub Stats"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwannn&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
-
 </div>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Mwannn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
+## 🏅 GitHub Achievements
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mwannn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" alt="Quickdraw"/>
+      <br/><b>Quickdraw</b>
+      <br/><sub>Closed issue/PR within 5 min</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" alt="Pair Extraordinaire"/>
+      <br/><b>Pair Extraordinaire</b>
+      <br/><sub>Coauthored a merged pull request</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark"/>
+      <br/><b>Pull Shark</b>
+      <br/><sub>Opened PRs that got merged</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO"/>
+      <br/><b>YOLO</b>
+      <br/><sub>Merged a PR without a review</sub>
+    </td>
+  </tr>
+</table>
 </div>
-
----
-
-## 📈 Contribution Graph
-
+--
+## 📈 Contribution Activity
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mwannn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mwannn&theme=tokyo-night&hide_border=true&area=true&custom_title=Marwan%27s%20Contribution%20Graph" alt="Contribution Graph"/>
+</div
+<div align="center">
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Mwannn/Mwannn?style=for-the-badge&color=7c3aed&label=Last+Commit&logo=github)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/Mwannn?style=for-the-badge&color=7c3aed&label=Followers&logo=github)
 </div>
-
 ---
-
 ## 💡 Dev Quote of the Day
-
 <div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 </div>
-
 ---
-
 <div align="center">
-
 ### 👀 Profile Views
-
 ![](https://komarev.com/ghpvc/?username=Mwannn&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Thanks for stopping by! Let's build something awesome together. 🚀**
