@@ -14,7 +14,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+intuitive+%26+engaging+web+experiences;React+%7C+TypeScript+%7C+Laravel+%7C+Next.js;Turning+ideas+into+digital+reality+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
-<video src="naga.mp4" width="100%" controls autoplay muted loop></video>
+<video src="https://github.com/Mwannn/Mwannn/raw/main/naga.mp4" width="100%" controls autoplay muted loop></video>
 
 </div>
 
@@ -146,7 +146,7 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mwannn&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak"/>
   &nbsp;
-  <img src="https://github-profile-trophy.vercel.app?username=Mwannn&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Mwannn&theme=tokyonight" height="150" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -182,17 +182,13 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 
 ---
 
-## ðŸ“ˆ Contribution Activity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mwannn/Mwannn/output/github-user-contribution.svg" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Mwannn/Mwannn/output/github-user-contribution.svg" alt="Contribution Graph" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mwannn/Mwannn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mwannn/Mwannn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mwannn/Mwannn/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mwannn/Mwannn/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Mwannn/Mwannn?style=for-the-badge&color=7c3aed&label=Last+Commit&logo=github" alt="Last Commit"/>
