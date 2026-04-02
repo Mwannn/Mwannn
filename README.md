@@ -46,8 +46,6 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
   <a href="https://medium.com/@marwanwisnu06"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://youtube.com/@mwannn_n"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:marwanwisnu06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord"/>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" alt="dev.to"/>
 </p>
 
 ---
@@ -148,7 +146,6 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mwannn&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak"/>
   &nbsp;
-  <img src="https://github-profile-trophy.vercel.app?username=Mwannn&theme=tokyonight" height="150" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -184,13 +181,7 @@ Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia ð
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mwannn/Mwannn/output/github-user-contribution.svg" alt="Contribution Graph" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mwannn/Mwannn/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Mwannn/Mwannn?style=for-the-badge&color=7c3aed&label=Last+Commit&logo=github" alt="Last Commit"/>
