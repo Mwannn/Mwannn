@@ -14,8 +14,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+intuitive+%26+engaging+web+experiences;React+%7C+TypeScript+%7C+Laravel+%7C+Next.js;Turning+ideas+into+digital+reality+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
-<video src="https://github.com/Mwannn/Mwannn/raw/main/naga.mp4" width="100%" controls autoplay muted loop></video>
-
 </div>
 
 ---
@@ -23,6 +21,12 @@
 ## 👨‍💻 About Me
 
 > *"Web development is where art meets technology — and I live at that intersection."*
+
+<p align="center">
+  <video src="naga.mp4" width="100%" muted autoplay loop playsinline controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 Hi! I'm **Marwan Wisnu**, a passionate Full-Stack Developer based in Indonesia 🇮🇩 with a background in Computer Science. I craft intuitive, performant, and aesthetically pleasing web applications — from pixel-perfect UIs to robust backend systems.
 
