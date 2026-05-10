@@ -10,7 +10,7 @@
 
 ```
 
-### `< Full-Stack Developer />` · `{ Art × Technology }`
+## `< Full-Stack Developer />` · `{ Art × Technology }`
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+intuitive+%26+engaging+web+experiences;React+%7C+TypeScript+%7C+Laravel+%7C+Next.js;Turning+ideas+into+digital+reality+%F0%9F%9A%80" alt="Typing SVG"/></a>
 
