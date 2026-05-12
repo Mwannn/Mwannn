@@ -5,43 +5,42 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+intuitive+%26+engaging+web+experiences+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Laravel+%7C+Next.js+%7C+Go;Turning+ideas+into+digital+reality+✨" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+intuitive+%26+engaging+web+experiences;React+%7C+TypeScript+%7C+Laravel+%7C+Next.js+%7C+Go;Turning+ideas+into+digital+reality" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Status Badge -->
-[![Typing SVG](https://img.shields.io/badge/STATUS-Open%20to%20Collaboration-10B981?style=for-the-badge&labelColor=0D0D1A&logo=github)](https://github.com/Mwannn)
+[![Status](https://img.shields.io/badge/STATUS-Open%20to%20Collaboration-10B981?style=for-the-badge&labelColor=0D0D1A&logo=github)](https://github.com/Mwannn)
 [![Profile Views](https://komarev.com/ghpvc/?username=Mwannn&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Mwannn)
 
 </div>
 
 ---
 
-## 👨‍💻 `$ whoami`
+## `$ whoami`
 
 ```bash
 ❯ cat about.json
 {
   "name"     : "Marwan Wisnu",
   "role"     : "Full-Stack Developer",
-  "location" : "Indonesia 🇮🇩",
+  "location" : "Indonesia",
   "tagline"  : "Web development is where art meets technology",
   "portfolio": "https://marwan-wisnu.my.id",
   "email"    : "marwanwisnu06@gmail.com",
   "status"   : "open_to_collaborations",
-  "fun_fact" : "Clean code is poetry ✍️"
+  "fun_fact" : "Clean code is poetry"
 }
 ```
 
-- 🔭 Currently building full-stack apps with **React**, **Next.js**, and **Laravel**
-- 🌱 Exploring **AI/ML integration** in web apps
-- 🌍 Portfolio → **[marwan-wisnu.my.id](https://marwan-wisnu.my.id)**
-- ⚡ Believer that clean code is poetry
+- Currently building full-stack apps with **React**, **Next.js**, and **Laravel**
+- Exploring **AI/ML integration** in web apps
+- Portfolio — **[marwan-wisnu.my.id](https://marwan-wisnu.my.id)**
+- Believer that clean code is poetry
 
 ---
 
-## 🌐 `$ connect --all`
+## `$ connect --all`
 
 <div align="center">
 
@@ -56,10 +55,10 @@
 
 ---
 
-## 🛠️ `$ cat skills.json`
+## `$ cat skills.json`
 
 <details open>
-<summary><b>⭐ Featured Stack</b></summary>
+<summary><b>Featured Stack</b></summary>
 <br>
 <div align="center">
 
@@ -79,7 +78,7 @@
 </details>
 
 <details>
-<summary><b>🎨 Frontend</b></summary>
+<summary><b>Frontend</b></summary>
 <br>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -94,7 +93,7 @@
 </details>
 
 <details>
-<summary><b>⚙️ Backend</b></summary>
+<summary><b>Backend</b></summary>
 <br>
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -110,7 +109,7 @@
 </details>
 
 <details>
-<summary><b>🗄️ Database & Cloud</b></summary>
+<summary><b>Database & Cloud</b></summary>
 <br>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -128,7 +127,7 @@
 
 ---
 
-## 📊 `$ git stats --all`
+## `$ git stats --all`
 
 <div align="center">
 
@@ -146,7 +145,7 @@
 
 ---
 
-## 🏅 `$ gh achievements --list`
+## `$ gh achievements --list`
 
 <div align="center">
 
@@ -155,22 +154,22 @@
     <td align="center" width="150">
       <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="72" alt="Quickdraw"/>
       <br/><b>Quickdraw</b>
-      <br/><sub>⚡ Closed in 5 min</sub>
+      <br/><sub>Closed issue/PR within 5 min</sub>
     </td>
     <td align="center" width="150">
       <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="72" alt="Pair Extraordinaire"/>
       <br/><b>Pair Extraordinaire</b>
-      <br/><sub>🤝 Coauthored PR</sub>
+      <br/><sub>Coauthored a merged PR</sub>
     </td>
     <td align="center" width="150">
       <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="72" alt="Pull Shark"/>
       <br/><b>Pull Shark</b>
-      <br/><sub>🦈 PRs merged</sub>
+      <br/><sub>Opened PRs that got merged</sub>
     </td>
     <td align="center" width="150">
       <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="72" alt="YOLO"/>
       <br/><b>YOLO</b>
-      <br/><sub>🎯 No-review merge</sub>
+      <br/><sub>Merged a PR without review</sub>
     </td>
   </tr>
 </table>
@@ -179,7 +178,7 @@
 
 ---
 
-## 💡 `$ fortune --dev`
+## `$ fortune --dev`
 
 <div align="center">
 
@@ -189,7 +188,6 @@
 
 ---
 
-<!-- Activity Graph -->
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mwannn&bg_color=0D0D1A&color=7C3AED&line=06B6D4&point=F59E0B&area=true&hide_border=true&border_radius=12" width="100%"/>
@@ -198,8 +196,7 @@
 
 ---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20build%20something%20awesome%20🚀&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s+build+something+awesome&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 <div align="center">
 
