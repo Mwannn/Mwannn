@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+intuitive+%26+engaging+web+experiences;React+%7C+TypeScript+%7C+Laravel+%7C+Next.js+%7C+Go;Turning+ideas+into+digital+reality" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+intuitive+%26+engaging+web+experiences;React+%7C+TypeScript+%7C+Laravel+%7C+Next.js+%7C+Go;Turning+ideas+into+digital+reality" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -17,48 +17,91 @@
 
 ---
 
-## `$ whoami`
+## `$ neofetch`
 
-```bash
-❯ cat about.json
-{
-  "name"     : "Marwan Wisnu",
-  "role"     : "Full-Stack Developer",
-  "location" : "Indonesia",
-  "tagline"  : "Web development is where art meets technology",
-  "portfolio": "https://marwan-wisnu.my.id",
-  "email"    : "marwanwisnu06@gmail.com",
-  "status"   : "open_to_collaborations",
-  "fun_fact" : "Clean code is poetry"
-}
+```
+        /\           marwan@arch
+       /  \          ──────────────────────────────
+      /\   \         OS       : Arch Linux x86_64
+     /  \ , \        Kernel   : 6.9.3-arch1-1
+    / ,  X  .\       Shell    : zsh 5.9 + oh-my-zsh
+   /.  /\ `. .\      WM       : i3-gaps / Hyprland
+  /  \/  \   `.\     Terminal : Alacritty
+ /___/\___\____\     Role     : Full-Stack Developer
+                     Location : Indonesia 🇮🇩
+                     Portfolio: marwan-wisnu.my.id
+                     Email    : marwanwisnu06@gmail.com
+                     Status   : open_to_collaborations
+                     Quote    : "Clean code is poetry"
 ```
 
-- Currently building full-stack apps with **React**, **Next.js**, and **Laravel**
-- Exploring **AI/ML integration** in web apps
-- Portfolio — **[marwan-wisnu.my.id](https://marwan-wisnu.my.id)**
-- Believer that clean code is poetry
+---
+
+## `$ cat /etc/profile.d/marwan.sh`
+
+```bash
+#!/usr/bin/env bash
+# /etc/profile.d/marwan.sh — loaded at every login shell
+
+# ── Identity ─────────────────────────────────────────────
+export NAME="Marwan Wisnu"
+export ROLE="Full-Stack Developer"
+export LOCATION="Indonesia"
+export PORTFOLIO="https://marwan-wisnu.my.id"
+export EMAIL="marwanwisnu06@gmail.com"
+export STATUS="open_to_collaborations"
+
+# ── Current focus ─────────────────────────────────────────
+alias build="react + nextjs + laravel"
+alias explore="AI/ML integration in web apps"
+alias philosophy="echo 'Clean code is poetry'"
+
+# ── Shortcuts ─────────────────────────────────────────────
+alias portfolio="xdg-open https://marwan-wisnu.my.id"
+alias contact="xdg-open mailto:marwanwisnu06@gmail.com"
+
+echo "[✔] marwan.sh loaded — welcome back, dev!"
+```
 
 ---
 
-## `$ connect --all`
+## `$ pacman -Ss skills | grep '\[installed\]'`
 
-<div align="center">
+```
+community/typescript 5.4        [installed]   Strongly typed JavaScript
+community/nextjs 14.2           [installed]   React framework for production
+community/react 18.3            [installed]   UI component library
+community/tailwindcss 3.4       [installed]   Utility-first CSS framework
+community/graphql 16.8          [installed]   API query language
+community/vuejs 3.4             [installed]   Progressive JS framework
+community/angular 17.3          [installed]   Platform for web applications
+community/bootstrap 5.3         [installed]   CSS framework
+community/mui 5.15              [installed]   Material UI for React
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://marwan-wisnu.my.id)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mwannn_n)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-wisnu-95a850282)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marwanwisnu06)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mwannn_n)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanwisnu06@gmail.com)
+community/laravel 11.0          [installed]   PHP web framework
+community/nodejs 20.12          [installed]   JavaScript runtime
+community/nestjs 10.3           [installed]   Progressive Node.js framework
+community/expressjs 4.19        [installed]   Fast web framework for Node
+community/go 1.22               [installed]   Open source programming language
+community/rust 1.78             [installed]   Systems programming language
+community/php 8.3               [installed]   General-purpose scripting language
+community/adonisjs 6.2          [installed]   Full-featured Node.js framework
+community/rails 7.1             [installed]   Ruby MVC web framework
 
-</div>
-
----
-
-## `$ cat skills.json`
+community/postgresql 16.2       [installed]   Object-relational database
+community/mysql 8.0             [installed]   Relational database management
+community/mongodb 7.0           [installed]   NoSQL document database
+community/supabase 0.1          [installed]   Open source Firebase alternative
+community/firebase 10.11        [installed]   Google app development platform
+community/prisma 5.13           [installed]   Next-gen Node.js ORM
+community/aws-cli 2.15          [installed]   Amazon Web Services CLI
+community/gcloud 473.0          [installed]   Google Cloud SDK
+community/vercel 34.2           [installed]   Frontend deployment platform
+community/netlify-cli 17.23     [installed]   Netlify deployment CLI
+```
 
 <details open>
-<summary><b>Featured Stack</b></summary>
+<summary><b>Featured Stack — badges</b></summary>
 <br>
 <div align="center">
 
@@ -127,7 +170,7 @@
 
 ---
 
-## `$ git stats --all`
+## `$ htop --github-stats`
 
 <div align="center">
 
@@ -145,7 +188,15 @@
 
 ---
 
-## `$ gh achievements --list`
+## `$ ls -la ~/achievements/`
+
+```
+total 4
+drwxr-xr-x  marwan  staff   quickdraw            Closed issue/PR within 5 min
+drwxr-xr-x  marwan  staff   pair-extraordinaire  Co-authored a merged PR
+drwxr-xr-x  marwan  staff   pull-shark           Opened PRs that got merged
+drwxr-xr-x  marwan  staff   yolo                 Merged a PR without code review 😅
+```
 
 <div align="center">
 
@@ -178,7 +229,46 @@
 
 ---
 
-## `$ fortune --dev`
+## `$ curl connect.sh --social`
+
+```bash
+#!/usr/bin/env bash
+# connect.sh — open all social links
+
+❯ xdg-open  https://marwan-wisnu.my.id                          # 🌐 portfolio
+❯ xdg-open  https://linkedin.com/in/marwan-wisnu-95a850282      # 💼 linkedin
+❯ xdg-open  https://instagram.com/mwannn_n                      # 📸 instagram
+❯ xdg-open  https://medium.com/@marwanwisnu06                   # ✍️  articles
+❯ xdg-open  https://youtube.com/@mwannn_n                       # 🎥 videos
+❯ xdg-open  mailto:marwanwisnu06@gmail.com                      # 📧 email
+
+[✔] All links ready — pick your platform!
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://marwan-wisnu.my.id)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mwannn_n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-wisnu-95a850282)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marwanwisnu06)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@mwannn_n)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanwisnu06@gmail.com)
+
+</div>
+
+---
+
+## `$ git log --oneline --graph --all`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mwannn&bg_color=0D0D1A&color=7C3AED&line=06B6D4&point=F59E0B&area=true&hide_border=true&border_radius=12" width="100%"/>
+
+</div>
+
+---
+
+## `$ fortune | cowsay -f tux`
 
 <div align="center">
 
@@ -190,15 +280,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mwannn&bg_color=0D0D1A&color=7C3AED&line=06B6D4&point=F59E0B&area=true&hide_border=true&border_radius=12" width="100%"/>
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s+build+something+awesome&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
-
-<div align="center">
 
 [![Last Commit](https://img.shields.io/github/last-commit/Mwannn/Mwannn?style=for-the-badge&color=7c3aed&label=Last+Commit&logo=github&labelColor=0D0D1A)](https://github.com/Mwannn)
 [![Followers](https://img.shields.io/github/followers/Mwannn?style=for-the-badge&color=06B6D4&label=Followers&logo=github&labelColor=0D0D1A)](https://github.com/Mwannn)
