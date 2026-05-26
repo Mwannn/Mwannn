@@ -174,12 +174,6 @@ community/netlify-cli 17.23     [installed]   Netlify deployment CLI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mwannn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&icon_color=06B6D4&text_color=E2E8F0&border_radius=12" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwannn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D1A&title_color=7C3AED&text_color=E2E8F0&border_radius=12" height="170"/>
-
-</div>
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mwannn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=12&background=0D0D1A&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4" height="170"/>
