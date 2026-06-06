@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Banner -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MARWAN&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Art%20%C3%97%20Technology&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 <!-- Typing SVG -->
