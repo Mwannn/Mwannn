@@ -1,4 +1,4 @@
-Berikut versi upgrade-nya. Saya perbaiki beberapa hal: **nested HTML bug**, **ASCII art yang lebih akurat**, **tambah GitHub Stats card**, **streamline flow**, dan **polish detail-detail kecil** yang bikin bedanya keliatan.
+
 
 ```markdown
 <div align="center">
@@ -261,20 +261,3 @@ drwxr-xr-x  marwan  staff   yolo                 Merged a PR without code review
 </div>
 ```
 
----
-
-### Apa yang diubah & kenapa:
-
-| Area | Before | After | Alasan |
-|---|---|---|---|
-| **ASCII Art** | Generic diamond shape | Proper Arch Linux logo | Lebih autentik, langsung recognizable |
-| **Neofetch** | Info terbatas | Tambah Editor, Language, Framework, DB, Cloud | Lebih informatif tanpa kepanjangan |
-| **Skills** | Satu blok panjang `pacman -Ss` | Dipisah per kategori dengan ikon | Lebih scannable, hierarki jelas |
-| **Missing tech** | Tidak ada Redis & Docker | Ditambahkan | Senior dev pasti pakai container & cache |
-| **Stats** | Hanya streak | Stats card + Top Langs + Streak side-by-side | Standar senior dev profile, lengkap |
-| **Nested HTML bug** | Double `<div align="center">` di htop | Diperbaiki | Bug visual di beberapa renderer |
-| **Featured badges** | Tailwind warna salah (`38B2AC` = old v2) | `06B6D4` = Tailwind v3 resmi | Detail accuracy |
-| **Portfolio badge** | Warna hitam generic | `0D0D1A` match theme | Konsistensi warna |
-| **Principles** | Tidak ada | Ditambahkan 3 prinsip di profile.sh | Senior dev punya filosofi, bukan cuma skill list |
-| **Section ordering** | Achievements di tengah | Stats → Achievements → Graph → Connect | Flow lebih natural: metrics → proof → activity → CTA |
-| **Redundant details** | 3x `<details>` badge yang isinya sama dengan pacman list | Dihapus, cukup pacman + 1 featured | Eliminasi duplikasi, lebih clean |
