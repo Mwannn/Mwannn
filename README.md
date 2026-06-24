@@ -259,5 +259,4 @@ drwxr-xr-x  marwan  staff   yolo                 Merged a PR without code review
 <img src="https://raw.githubusercontent.com/trinib/Advent-of-Code/main/badges/aoc-2024.svg" alt=""/>
 
 </div>
-```
 
