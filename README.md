@@ -124,16 +124,17 @@ echo "[✔] profile.sh loaded — welcome back, marwan."
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats & Top Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mwannn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D0D1A&title_color=7C3AED&icon_color=06B6D4&text_color=c9d1d9&ring_color=7C3AED&line_height=28" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwannn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D0D1A&title_color=7C3AED&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mwannn&theme=tokyonight" height="190" alt="GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mwannn&theme=tokyonight" height="190" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mwannn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=12&background=0D0D1A&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4" height="170" alt="Streak Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mwannn&theme=tokyonight" height="190" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mwannn&theme=tokyonight" height="190" alt="Most Commit Language"/>
 
 </div>
 
