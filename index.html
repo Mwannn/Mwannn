@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marwan Wisnu — Interactive 3D Three.js Portfolio & Profile</title>
+  <meta name="description" content="Full-Stack Developer & Creative Engineer specializing in React, Next.js, Go, Laravel, and 3D WebGL experiences.">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+</head>
+<body>
+
+  <!-- Glowing Custom Cursor -->
+  <div id="cursor-glow" class="cursor-glow"></div>
+
+  <!-- 3D Three.js WebGL Background Canvas -->
+  <canvas id="webgl-canvas"></canvas>
+
+  <!-- Navigation Bar -->
+  <header class="nav-header" id="nav-header">
+    <a href="#" class="brand-logo">
+      <span>MARWAN.DEV</span>
+      <span class="badge-3d">THREE.JS</span>
+    </a>
+
+    <nav class="nav-links">
+      <a href="#about">About</a>
+      <a href="#skills">Tech Stack</a>
+      <a href="#terminal">Terminal</a>
+      <a href="#contact">Connect</a>
+    </nav>
+
+    <!-- Interactive Theme & Warp Controls -->
+    <div class="control-toolbar">
+      <button class="btn-icon" onclick="window.setTheme('cyber')" title="Cyber Theme">🟣</button>
+      <button class="btn-icon" onclick="window.setTheme('matrix')" title="Matrix Theme">🟢</button>
+      <button class="btn-icon" onclick="window.setTheme('space')" title="Space Theme">🔵</button>
+      <button class="btn-icon" id="btn-warp" onclick="window.toggleWarpSpeed()" title="Toggle Particle Warp Speed">🚀 WARP</button>
+    </div>
+  </header>
+
+  <!-- Main Content Overlay -->
+  <div class="app-container">
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+      <div class="hero-pill">
+        <span class="status-dot"></span>
+        <span>WebGL 3D Interactive Portfolio Active</span>
+      </div>
+
+      <h1 class="hero-title">
+        MARWAN WISNU
+      </h1>
+
+      <p class="hero-subtitle">
+        Full-Stack Developer & Creative Engineer <br>
+        Crafting high-performance web applications, scalable backends, and immersive 3D digital experiences.
+      </p>
+
+      <div class="hero-cta">
+        <a href="#terminal" class="btn-primary">
+          <span>⚡ Launch Profile</span>
+        </a>
+        <a href="https://github.com/Mwannn" target="_blank" rel="noopener noreferrer" class="btn-secondary">
+          <span>🐙 Visit GitHub Profile</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- About Section with 3D Holographic Card -->
+    <section id="about" class="3d-card-wrapper">
+      <h2 class="section-title">✨ Developer Matrix</h2>
+      <div class="glass-card-3d">
+        <div class="grid-2">
+          <div>
+            <h3 style="font-size: 1.5rem; color: var(--accent-secondary); margin-bottom: 12px;">Art × Technology</h3>
+            <p style="color: var(--text-muted); line-height: 1.7; margin-bottom: 16px;">
+              Hello! I'm <strong>Marwan Wisnu</strong>, a passionate software developer based in Indonesia 🇮🇩. 
+              I design and build robust web systems, cloud architectures, and visually stunning web interfaces.
+            </p>
+            <p style="color: var(--text-muted); line-height: 1.7;">
+              My philosophy: <em>"Clean code is poetry."</em> I focus on shipping fast, testing thoroughly, and maintaining developer experience as high as user experience.
+            </p>
+          </div>
+
+          <div>
+            <h3 style="font-size: 1.25rem; color: #fff; margin-bottom: 14px;">⚡ Core Specializations</h3>
+            <ul style="list-style: none; color: var(--text-muted); line-height: 2;">
+              <li>🚀 <strong>Frontend Architecture:</strong> React, Next.js, TypeScript, TailwindCSS, Three.js</li>
+              <li>⚡ <strong>Backend & APIs:</strong> Go, Laravel, NestJS, Express.js, RESTful & GraphQL</li>
+              <li>🗄️ <strong>Databases & Cloud:</strong> PostgreSQL, MongoDB, Redis, AWS, Docker, Vercel</li>
+              <li>🐧 <strong>Environment:</strong> Arch Linux, Hyprland/i3, Neovim + LazyVim, Zsh</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Tech Stack Section -->
+    <section id="skills" style="margin: 60px 0;">
+      <h2 class="section-title">🛠️ Technology Ecosystem</h2>
+      
+      <div class="grid-3">
+        <!-- Frontend Card -->
+        <div class="glass-card-3d">
+          <h3 style="color: var(--accent-secondary); margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">
+            💻 Frontend Engineering
+          </h3>
+          <div class="tech-pill-container">
+            <span class="tech-pill">TypeScript</span>
+            <span class="tech-pill">React 18</span>
+            <span class="tech-pill">Next.js 14</span>
+            <span class="tech-pill">Three.js / WebGL</span>
+            <span class="tech-pill">Vue.js</span>
+            <span class="tech-pill">Tailwind CSS</span>
+          </div>
+        </div>
+
+        <!-- Backend Card -->
+        <div class="glass-card-3d">
+          <h3 style="color: var(--accent-primary); margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">
+            ⚙️ Backend & Systems
+          </h3>
+          <div class="tech-pill-container">
+            <span class="tech-pill">Go (Golang)</span>
+            <span class="tech-pill">Laravel PHP</span>
+            <span class="tech-pill">NestJS</span>
+            <span class="tech-pill">Rust</span>
+            <span class="tech-pill">Node.js</span>
+            <span class="tech-pill">GraphQL API</span>
+          </div>
+        </div>
+
+        <!-- Cloud & DevOps Card -->
+        <div class="glass-card-3d">
+          <h3 style="color: var(--accent-pink); margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">
+            ☁️ Cloud & Infrastructure
+          </h3>
+          <div class="tech-pill-container">
+            <span class="tech-pill">PostgreSQL</span>
+            <span class="tech-pill">MongoDB</span>
+            <span class="tech-pill">Redis</span>
+            <span class="tech-pill">Docker</span>
+            <span class="tech-pill">AWS</span>
+            <span class="tech-pill">Vercel</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Terminal Section -->
+    <section id="terminal" style="margin: 60px 0;">
+      <h2 class="section-title">💻 System Terminal</h2>
+      
+      <div class="terminal-card">
+        <div class="terminal-header">
+          <span class="mac-dot mac-red"></span>
+          <span class="mac-dot mac-yellow"></span>
+          <span class="mac-dot mac-green"></span>
+          <span class="terminal-title">marwan@arch: ~ (zsh)</span>
+        </div>
+        <div class="terminal-body">
+          <div class="terminal-line">
+            <span class="prompt">marwan@arch ~ %</span> <span class="cmd">neofetch --profile</span>
+          </div>
+          <pre style="color: #34d399; font-size: 0.85rem; line-height: 1.4; overflow-x: auto;">
+       -`                 marwan@arch
+      .o+`                ─────────────────────────────────
+     `ooo/                OS        Arch Linux x86_64
+    `+oooo:               Kernel    6.9.3-arch1-1
+   `+oooooo:              Shell     zsh 5.9 + oh-my-zsh
+   -+oooooo+:             WM        i3-gaps / Hyprland
+ `/:-:++oooo+:            Terminal  Alacritty
+`/++++/+++++++:           Editor    Neovim + LazyVim
+          </pre>
+          <br>
+          <div class="terminal-line">
+            <span class="prompt">marwan@arch ~ %</span> <span class="cmd">cat ~/.config/marwan/profile.sh</span>
+          </div>
+          <div class="terminal-line"><span class="comment"># Identity & Focus Configuration</span></div>
+          <div class="terminal-line">export NAME="<span class="output-val">Marwan Wisnu</span>"</div>
+          <div class="terminal-line">export ROLE="<span class="output-val">Full-Stack Developer</span>"</div>
+          <div class="terminal-line">export FOCUS="<span class="output-val">Next.js + Laravel + Go + WebGL 3D</span>"</div>
+          <div class="terminal-line">export STATUS="<span class="output-val">● open to collaborations</span>"</div>
+          <br>
+          <div class="terminal-line"><span class="comment">[✔] Profile environment loaded successfully.</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Connect & Social Section -->
+    <section id="contact" style="margin: 60px 0;">
+      <h2 class="section-title">🌐 Connect & Collaborate</h2>
+
+      <div class="glass-card-3d" style="text-align: center; padding: 48px 24px;">
+        <h3 style="font-size: 1.8rem; font-weight: 800; margin-bottom: 16px;">Let's build something awesome together!</h3>
+        <p style="color: var(--text-muted); max-width: 500px; margin: 0 auto 32px;">
+          Whether you have an inquiry, a project proposal, or just want to chat about tech, feel free to reach out.
+        </p>
+
+        <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+          <a href="https://marwan-wisnu.my.id" target="_blank" class="btn-secondary">🌐 Portfolio Website</a>
+          <a href="https://www.linkedin.com/in/marwan-wisnu-95a850282" target="_blank" class="btn-secondary">💼 LinkedIn</a>
+          <a href="https://instagram.com/mwannn_n" target="_blank" class="btn-secondary">📸 Instagram</a>
+          <a href="mailto:marwanwisnu06@gmail.com" class="btn-primary">📧 Email Me</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <p>© 2026 Marwan Wisnu (Mwannn). Built with Three.js, WebGL & Vanilla CSS.</p>
+    </footer>
+
+  </div>
+
+  <!-- Load Three.js App Engine -->
+  <script type="module" src="app.js"></script>
+
+</body>
+</html>
