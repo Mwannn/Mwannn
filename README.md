@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 3D Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MARWAN+WISNU&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Creative%203D%20WebGL%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<!-- Header Capsule Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=MARWAN+WISNU&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Creative%203D%20WebGL%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%" alt="Header Banner"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -19,82 +19,48 @@
 
 ---
 
-## 🌌 GitHub 3D Contribution Graphs
+## 🌌 GitHub Contribution Graph
 
 <div align="center">
 
-> [!TIP]
-> *Isometric 3D contribution graphs rendered in real-time via GitHub Actions.*
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>🌉 3D Night View Graph</b><br/><br/>
-      <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View" onerror="this.src='github-user-contribution.svg'"/>
-    </td>
-    <td align="center" width="50%">
-      <b>🧊 3D Isometric Cube Graph</b><br/><br/>
-      <img src="profile-3d-contrib/profile-night-cube.svg" width="100%" alt="3D Isometric Cube" onerror="this.src='github-user-contribution.svg'"/>
-    </td>
-  </tr>
-</table>
+<img src="github-user-contribution.svg" width="100%" alt="GitHub User Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub 3D Trophies
+## 🛠️ Technology Ecosystem & Tech Stack
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mwannn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" width="100%" alt="GitHub Trophies"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" height="48" alt="Rust"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
+
+<br/><br/>
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
-
----
-
-## 🛠️ 3D Tech Stack & Ecosystem
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=threejs,react,nextjs,ts,go,laravel,nestjs,rust,postgres,mongodb,redis,docker,aws,tailwind,linux,vim&perline=8&theme=dark" alt="Skill Icons"/>
-</a>
-
-</div>
-
-<br/>
-
-<details open>
-<summary><b>💻 Complete Tech Stack Overview</b></summary>
-<br/>
-
-### 🎨 Frontend & 3D Graphics
-```
- 🚀 threejs       0.160   [installed]   WebGL 3D rendering & particle animation engine
- ⚛️ react         18.3    [installed]   Declarative component-based UI platform
- ⚡ nextjs        14.2    [installed]   Full-stack server-rendered React framework
- 🔷 typescript    5.4     [installed]   Type-safe JavaScript superset engine
- 🎨 tailwindcss   3.4     [installed]   Utility-first CSS styling framework
-```
-
-### ⚙️ Backend & Systems Architecture
-```
- 🐹 go            1.22    [installed]   Fast & concurrent compiled systems language
- 🚩 laravel       11.0    [installed]   Elegant MVC framework for Web
- 🦁 nestjs        10.3    [installed]   Progressive Node.js enterprise framework
- 🦀 rust          1.78    [installed]   Memory-safe & blazing fast systems language
-```
-
-### ☁️ Databases & Infrastructure
-```
- 🐘 postgresql    16.2    [installed]   Advanced relational database system
- 🍃 mongodb       7.0     [installed]   Document-oriented NoSQL database
- ⚡ redis         7.2     [installed]   In-memory key-value cache engine
- 🐳 docker        26.0    [installed]   Containerized application runtime
- ☁️ aws           2.15    [installed]   Amazon Web Services cloud engine
-```
-</details>
 
 ---
 
@@ -158,26 +124,26 @@ echo "[✔] profile.sh loaded — welcome back, marwan."
 
 ---
 
-## 📈 GitHub 3D Analytics & Activity
+## 📈 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mwannn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D0D1A&title_color=7C3AED&icon_color=06B6D4&text_color=c9d1d9&ring_color=7C3AED&line_height=28" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwannn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D0D1A&title_color=7C3AED&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mwannn&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D0D1A&title_color=7C3AED&icon_color=06B6D4&text_color=c9d1d9&ring_color=7C3AED&line_height=28" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwannn&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D0D1A&title_color=7C3AED&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mwannn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=12&background=0D0D1A&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Mwannn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=12&background=0D0D1A&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4" height="170" alt="Streak Stats"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Game
+## 🐲 Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mwannn/Mwannn/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" onerror="this.src='naga.gif'"/>
+<img src="naga.gif" alt="Contribution Animation" width="100%"/>
 
 </div>
 
@@ -200,7 +166,7 @@ echo "[✔] profile.sh loaded — welcome back, marwan."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s+build+something+awesome+in+3D&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s+build+something+awesome+in+3D&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" alt="Footer Banner"/>
 
 <br/>
 
